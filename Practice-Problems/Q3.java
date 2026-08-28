@@ -91,6 +91,4 @@ public class Q3 {
         System.out.println("\nCase 2: All rooms full");
         safeAllot(fullRooms, "Divya");
     }
-}git add .
-git commit -m "Added Q3"
-git push
+}
